@@ -1,4 +1,4 @@
-package br.myapplication
+package br.listadecompras
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

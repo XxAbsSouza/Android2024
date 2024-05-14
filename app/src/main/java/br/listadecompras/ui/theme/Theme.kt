@@ -1,4 +1,4 @@
-package br.myapplication.ui.theme
+package br.listadecompras.ui.theme
 
 import android.app.Activity
 import android.os.Build

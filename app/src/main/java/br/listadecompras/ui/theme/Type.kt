@@ -1,4 +1,4 @@
-package br.myapplication.ui.theme
+package br.listadecompras.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

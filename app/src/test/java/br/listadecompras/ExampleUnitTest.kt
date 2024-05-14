@@ -1,4 +1,4 @@
-package br.myapplication
+package br.listadecompras
 
 import org.junit.Test
 
