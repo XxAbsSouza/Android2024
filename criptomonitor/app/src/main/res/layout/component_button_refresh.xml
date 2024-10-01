@@ -8,7 +8,11 @@
         android:id="@+id/buttonRefresh"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Refresh" />
+        android:text="Atualizar"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp"
+        android:textColor="@color/white"
+        android:background="@drawable/rounded_button_refresh"/>
 
     <ProgressBar
         android:id="@+id/progressBar"
